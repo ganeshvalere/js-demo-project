@@ -1,0 +1,5 @@
+// singleton
+
+//object
+
+const JsUser
