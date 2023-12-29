@@ -2,8 +2,7 @@
 
 // alert( 3 +3) we are using nodejs, not browser
 
-console.log( 3 + 
-    3) // code readability should be high
+console.log( 3 +  3) // code readability should be high
 
 console.log("Ganesh")
 
@@ -19,7 +18,6 @@ let isloggedIn = false
 // null => standalone value 
 // undefined => no value defined
 // symbol => unique 
-
 // object 
 
 console.log(typeof undefined); // underfined
